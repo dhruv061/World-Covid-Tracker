@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo (1)](https://user-images.githubusercontent.com/96719397/231738411-bb8fce72-4c15-4b61-be44-3f8b34705df1.png)
 
 
 # Word Covid Tracker (WCT)
@@ -35,5 +35,4 @@ The WCT (Word Covid Tracker) app simply displays Covid-related info like total c
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/filed1sD8OYFBL6Xtx8grlCrOj_tbuiCe7Csvq/view?usp=share_link)
-
+![Apple iPhone 11 Pro Max Presentation](https://user-images.githubusercontent.com/96719397/231738496-f9d0dcaa-4c1d-4b39-9d45-70e9e4031e29.png)
